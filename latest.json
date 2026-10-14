@@ -1,0 +1,10 @@
+﻿{
+    "product":  "Adcreva",
+    "platform":  "windows-x64",
+    "version":  "2.2.22",
+    "installer_url":  "https://adcreva.devorica.com/downloads/Adcreva-Setup.exe",
+    "sha256":  "83BE3AA9C62DE8EE71B41D32B50FCC12ADE5E109974321B56E0398F698AE9FA8",
+    "release_notes":  "Ultra-compressed 52MB footprint, in-app seamless auto-updates, exact single AI image tracking, zero UI overlay flicker.",
+    "minimum_os":  "Windows 10 64-bit",
+    "published_at":  "2026-10-14T04:42:18.3079484Z"
+}
