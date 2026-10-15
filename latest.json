@@ -1,11 +1,10 @@
-{
-    "product": "Adcreva",
-    "platform": "windows-x64",
-    "version": "2.2.22",
-    "installer_url": "https://adcreva.devorica.com/downloads/Adcreva-Setup.exe",
-    "sha256": "875AB24050A50A40929FC654489E2B5B3BED660F9F9203CC91C425B33598F49F",
-    "file_size_bytes": 53619820,
-    "release_notes": "Accurate single AI image counting, dynamic custom CSS selectors dialog with live DevTools, ultra-compact 51MB installer footprint.",
-    "minimum_os": "Windows 10 64-bit",
-    "published_at": "2026-10-14T08:35:49.815447+00:00"
+﻿{
+    "product":  "Adcreva",
+    "platform":  "windows-x64",
+    "version":  "1.0.2",
+    "installer_url":  "https://adcreva.devorica.com/downloads/Adcreva-Setup.exe",
+    "sha256":  "5CB67600F9292E49B36966A2C310F17FD9D0DFE9FAB3ED0496E9EE24103B24D5",
+    "release_notes":  "Adcreva Enterprise v1.0.2",
+    "minimum_os":  "Windows 10 64-bit",
+    "published_at":  "2026-10-15T07:36:39.5634821Z"
 }
